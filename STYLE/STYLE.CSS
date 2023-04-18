@@ -1,0 +1,30 @@
+body{
+    
+    background-image: url("https://www.google.com/url?sa=i&url=http%3A%2F%2Ft1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQddQia9ORlSQiKOmw5nv9-mv_Q-Y4g6T31TecFS7zCVjAOhlba64UxPP3-B89uBM2wEk48zSEq_8UJy0E&psig=AOvVaw2_Q7BO-quNabMiix4tES7O&ust=1681900737167000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjDqdKes_4CFQAAAAAdAAAAABAE"
+    );
+    background-repeat: no repeat;
+    
+    text-align: center;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+img{ width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    }
+  
+    div{text-align:center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+ }
+
+ h1{
+    text-align: center;
+    font-family:'Nova oval', italic;
+    font-style: "bold";
+    background-color: #206e72; 
+    color: black;
+    border-radius: 100px;
+ }
