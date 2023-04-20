@@ -1,17 +1,18 @@
 body{
     
-    background-image: url("https://www.google.com/url?sa=i&url=http%3A%2F%2Ft1.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcQddQia9ORlSQiKOmw5nv9-mv_Q-Y4g6T31TecFS7zCVjAOhlba64UxPP3-B89uBM2wEk48zSEq_8UJy0E&psig=AOvVaw2_Q7BO-quNabMiix4tES7O&ust=1681900737167000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjDqdKes_4CFQAAAAAdAAAAABAE"
-    );
-    background-repeat: no repeat;
-    
+    background:linear-gradient(27deg, rgb(153,85,142) 25%  ,rgb(109,48,73) 75%);
+    /* background-repeat: no repeat; */
+    /* background:linear-gradient(27deg, rgb(237, 5, 40) 0%, rgb(226, 223, 11) 100%); */
     text-align: center;
     color: red;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    min-height: 100vh;
+    
 }
 
-img{ width: 100px;
-    height: 100px;
-    border-radius: 10px;
+img{ width: 400px;
+    height: 400px;
+    border-radius: 999px;
     }
   
     div{text-align:center;
